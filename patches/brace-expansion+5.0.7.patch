@@ -1,0 +1,9 @@
+diff --git a/node_modules/brace-expansion/dist/commonjs/index.js b/node_modules/brace-expansion/dist/commonjs/index.js
+index e4e5bd8..8e6c0c9 100644
+--- a/node_modules/brace-expansion/dist/commonjs/index.js
++++ b/node_modules/brace-expansion/dist/commonjs/index.js
+@@ -209,3 +209,4 @@ function expand_(str, max, isTop) {
+     }
+ }
+ //# sourceMappingURL=index.js.map
++exports.default = expand;
